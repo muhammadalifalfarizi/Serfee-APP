@@ -1,5 +1,5 @@
 # Serfee-APP
-### This is the repository for the capstone project at Bangkit Academy.
+### This is the repository for the capstone project at Bangkit Academy
 
 Our team is developing an Android app to connect those in need with local, kind helpers. 
 The aim of the project is to create a community that is fair and trusted. 
